@@ -1,0 +1,17 @@
+{
+  "name": "haraka-nodemailer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "async": "^2.1.4",
+    "mongodb": "^2.2.22",
+    "nodemailer": "^3.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
